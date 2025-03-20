@@ -14,3 +14,5 @@
 <br/>
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shxvani&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" alt="shxvani's GitHub Stats" />
+![Visitor Count](https://profile-counter.glitch.me/shxvani/count.svg)
+
