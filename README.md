@@ -12,7 +12,7 @@
 
 <div align=center>
   <a href="">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shxvani&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=6&layout=compact&border_color=61dafb&hide_border=false&size_weight=0.5&count_weight=0.5" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shxvani" />
   </a>
 </div>
 </div>
