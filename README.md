@@ -14,7 +14,3 @@
 <br/>
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shxvani&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" alt="shxvani's GitHub Stats" />
-<div>
-  [![Visits Badge](https://badges.pufler.dev/visits/shxvani/shxvani)](https://josedromero.com)
-
-</div>
