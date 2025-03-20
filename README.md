@@ -5,6 +5,8 @@
 </h1>
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGswajd6dTZkejg3azRwM2pwNHkxbjljeXB0ZWFhcWNrNzJnamxnZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jkSvCVEXWlOla/giphy.gif" />
+<br/>
+
 <img src="https://readme-jokes.vercel.app/api?theme=highcontrast&hideBorder&bgColor=%23000000&qColor=%23ffffff&aColor=%23ff0000" alt="Jokes Card" />
 
 
