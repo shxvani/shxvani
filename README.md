@@ -10,13 +10,8 @@
   🛠️ Stats
 </h2>
 
-<div align=center>
-  <a href="">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shxvani" />
-  </a>
-</div>
-</div>
-
+<img src="https://github-readme-stats.vercel.app/api?username=shxvani&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="shxvani's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shxvani&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" alt="shxvani's GitHub Stats" />
 
 <!--
 **shxvani/shxvani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
