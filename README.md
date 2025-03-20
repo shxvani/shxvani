@@ -14,5 +14,7 @@
 <br/>
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shxvani&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" alt="shxvani's GitHub Stats" />
----
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<h2>
+  
+</h2>
+<img src="https://readme-jokes.vercel.app/api?theme=highcontrast&hideBorder&bgColor=%23000000&qColor=%23ffffff&aColor=%23ff0000" alt="Jokes Card" />
